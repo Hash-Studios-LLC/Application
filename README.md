@@ -25,12 +25,9 @@ Follow these steps to download and install the Hash Studios LLC mobile app:
 3. A prompt will appear asking for permission to install apps from unknown sources; allow it.
 4. Complete the installation and open the app to start exploring.
 
-5. <br><br>
-
+<br><br>
 ### Android (AAB) (For Advanced Users)
-
 #### Requirements
-
 - Android 7.0 or higher.
 - The `bundletool` utility installed on your computer. You can download it from [here](https://github.com/google/bundletool/releases).
 
