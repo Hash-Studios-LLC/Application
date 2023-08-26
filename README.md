@@ -19,7 +19,7 @@ Explore the World of Hash Studios LLC with our mobile app, your gateway to excep
 Follow these steps to download and install the Hash Studios LLC mobile app:
 <br><br>
 
-**Android (APK)**
+### Android (APK)
 1. Click [here](https://github.com/Hash-Studios-LLC/Hash-Studios-Application/releases) to download the Hash Studios LLC APK file.
 2. Navigate to your "Downloads" folder and tap the APK file.
 3. A prompt will appear asking for permission to install apps from unknown sources; allow it.
@@ -27,7 +27,7 @@ Follow these steps to download and install the Hash Studios LLC mobile app:
 
 5. <br><br>
 
-**Android (AAB) (For Advanced Users)**
+### Android (AAB) (For Advanced Users)
 
 #### Requirements
 
@@ -54,7 +54,7 @@ Follow these steps to download and install the Hash Studios LLC mobile app:
     ```
 
 <br><br>
-**iOS Users**<br>
+### iOS Users
 Currently, the Hash Studios LLC mobile app is not available for iOS users. 
 Stay tuned for updates as we may release an iOS version in the future.
 
