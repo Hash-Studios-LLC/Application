@@ -10,7 +10,7 @@
 
 ## Description
 
-Explore the World of Hash Studios LLC with our mobile app, your gateway to exceptional Virtual Reality experiences, cutting-edge software solutions, and enthralling games. It's more than just a website; it's an interactive hub designed for the tech-savvy and the curious. The app features our latest innovations, offering you access to immersive and engaging content. Stay connected with Hash Studios LLC and be part of the future of Virtual Reality.
+Explore the World of Hash Studios LLC with our mobile app, your gateway to exceptional Virtual Reality experiences, cutting-edge software solutions, and enthralling games. The app features our latest innovations, offering you access to immersive and engaging content. Stay connected with Hash Studios LLC and be part of the future of Virtual Reality.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
