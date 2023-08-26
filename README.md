@@ -17,7 +17,7 @@ Explore the World of Hash Studios LLC with our mobile app, your gateway to excep
 ## How to Download
 
 Follow these steps to download and install the Hash Studios LLC mobile app:
-<br><br>
+<br>
 
 <br><br>
 ### Android (APK)
