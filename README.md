@@ -1,4 +1,4 @@
-# Hash Studios Application
+# <p align="center"> &nbsp; Hash Studios Application &nbsp; </p>
 
 <br>
 <p align="center">
@@ -8,13 +8,13 @@
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
-## Description
+# Description
 
 Explore the World of Hash Studios LLC with our mobile app, your gateway to exceptional Virtual Reality experiences, cutting-edge software solutions, and enthralling games. The app features our latest innovations, offering you access to immersive and engaging content. Stay connected with Hash Studios LLC and be part of the future of Virtual Reality.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
-## How to Download
+# How to Download
 
 Follow these steps to download and install the Hash Studios LLC mobile app:
 
@@ -57,7 +57,7 @@ Stay tuned for updates as we may release an iOS version in the future.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
-## Download Requirements
+# Download Requirements
 
 **Android**
 - Android version 7.0 (Nougat) and above.
@@ -66,7 +66,7 @@ Stay tuned for updates as we may release an iOS version in the future.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
-## Support and Feedback
+# Support and Feedback
 For any issues or suggestions, feel free to contact us at support@hashstudiosllc.com.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
