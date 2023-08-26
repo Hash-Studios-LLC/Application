@@ -41,5 +41,7 @@ Stay tuned for updates as we may release an iOS version in the future.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
+<br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
+
 ## Support and Feedback
 For any issues or suggestions, feel free to contact us at support@hashstudiosllc.com.
