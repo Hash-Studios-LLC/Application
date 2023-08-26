@@ -35,7 +35,7 @@ Stay tuned for updates as we may release an iOS version in the future.
 ## Download Requirements
 
 **Android**
-- Android version 5.0 (Lollipop) and above.
+- Android version 7.0 (Nougat) and above.
 - At least 100MB of free storage.
 - Internet connection for downloading and updates.
 
