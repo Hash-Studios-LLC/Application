@@ -26,7 +26,7 @@ Follow these steps to download and install the Hash Studios LLC mobile app:
 4. Complete the installation and open the app to start exploring.
 
 <br><br>
-**iOS Users**
+**iOS Users**<br>
 Currently, the Hash Studios LLC mobile app is not available for iOS users. 
 Stay tuned for updates as we may release an iOS version in the future.
 
