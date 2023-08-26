@@ -19,11 +19,39 @@ Explore the World of Hash Studios LLC with our mobile app, your gateway to excep
 Follow these steps to download and install the Hash Studios LLC mobile app:
 <br><br>
 
-**Android**
+**Android (APK)**
 1. Click [here](https://github.com/Hash-Studios-LLC/Hash-Studios-Application/releases) to download the Hash Studios LLC APK file.
 2. Navigate to your "Downloads" folder and tap the APK file.
 3. A prompt will appear asking for permission to install apps from unknown sources; allow it.
 4. Complete the installation and open the app to start exploring.
+
+5. <br><br>
+
+**Android (AAB) (For Advanced Users)**
+
+#### Requirements
+
+- Android 7.0 or higher.
+- The `bundletool` utility installed on your computer. You can download it from [here](https://github.com/google/bundletool/releases).
+
+#### Steps
+
+1. **Download the Hash Studios LLC AAB file**:  
+    Click [here](https://example.com/hashstudiosllc.aab) to download the `.aab` file.
+   
+3. **Generate APKs from the AAB file**:  
+    Open a terminal and run the following command to generate APKs from the AAB file.
+    ```
+    bundletool build-apks --bundle=/path/to/your-app.aab --output=/path/to/output.apks
+    ```
+   
+4. **Install the APKs onto your device**:  
+    - Make sure [USB Debugging is enabled](https://developer.android.com/studio/debug/dev-options) on your Android device.
+    - Connect your device to your computer.
+    - Install the APKs using the following command:
+    ```
+    bundletool install-apks --apks=/path/to/output.apks
+    ```
 
 <br><br>
 **iOS Users**<br>
