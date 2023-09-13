@@ -80,6 +80,7 @@ Stay tuned for updates as we may release an iOS version in the future.
 - At least 150MB of free storage.
 - Internet connection for downloading and updates.
 
+<br><br>
 **Android**
 - Android version 7.0 (Nougat) and above.
 - At least 100MB of free storage.
