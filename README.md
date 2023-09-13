@@ -1,4 +1,4 @@
-# <p align="center"> &nbsp; Hash Studios Application &nbsp; </p>
+# <p align="center"> &nbsp; Hash Studios Web Application &nbsp; </p>
 
 <br>
 <p align="center">
