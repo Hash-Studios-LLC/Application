@@ -62,7 +62,7 @@ Once the installation is complete, you can find the Hash Studios LLC application
     ```
 
 <br><br>
-macOS Users
+### macOS Users
 Currently, the web application is not available for macOS users.
 Stay tuned for updates as we may release a macOS version in the future.
 
