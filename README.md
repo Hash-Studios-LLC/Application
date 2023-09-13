@@ -19,8 +19,22 @@ Explore the World of Hash Studios LLC with our mobile app, your gateway to excep
 Follow these steps to download and install the Hash Studios LLC mobile app:
 
 <br><br>
+### Windows (EXE)
+1. Click [here](https://github.com/Hash-Studios-LLC/Hash-Studios-Application/releases) to download the .exe file for Windows.
+2. Navigate to your Downloads Folder
+3. Go to your "Downloads" folder and locate the setup folder you just downloaded.
+4. Unpack the Setup Folder. Extract the contents of the setup folder.
+5. Run the .exe File
+
+**Run the Installer:**
+Double-click on the .exe file to start the installation process. If prompted by Windows security, click on "Run" or "Yes" to proceed.
+
+**Launch the App:**
+Once the installation is complete, you can find the Hash Studios LLC application in your "Start" menu or on your desktop. Double-click to open it and start exploring the world of Hash Studios LLC.
+
+<br><br>
 ### Android (APK)
-1. Click [here](https://github.com/Hash-Studios-LLC/Hash-Studios-Application/releases) to download the Hash Studios LLC APK file.
+1. Click [here](https://github.com/Hash-Studios-LLC/Hash-Studios-Application/releases) to download the APK file.
 2. Navigate to your "Downloads" folder and tap the APK file.
 3. A prompt will appear asking for permission to install apps from unknown sources; allow it.
 4. Complete the installation and open the app to start exploring.
@@ -32,7 +46,7 @@ Follow these steps to download and install the Hash Studios LLC mobile app:
 - The `bundletool` utility installed on your computer. You can download it from [here](https://github.com/google/bundletool/releases).
 
 **Steps**
-1. **Download the Hash Studios LLC AAB file**:  
+1. **Download the AAB file**:  
     Click [here](https://example.com/hashstudiosllc.aab) to download the `.aab` file.
 3. **Generate APKs from the AAB file**:  
     Open a terminal and run the following command to generate APKs from the AAB file.
