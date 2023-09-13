@@ -62,13 +62,23 @@ Once the installation is complete, you can find the Hash Studios LLC application
     ```
 
 <br><br>
+macOS Users
+Currently, the web application is not available for macOS users.
+Stay tuned for updates as we may release a macOS version in the future.
+
+<br><br>
 ### iOS Users
-Currently, the Hash Studios LLC mobile app is not available for iOS users. 
+Currently, the web application is not available for iOS users. 
 Stay tuned for updates as we may release an iOS version in the future.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
 # Download Requirements
+
+**Windows**
+- Windows 7 or higher.
+- At least 150MB of free storage.
+- Internet connection for downloading and updates.
 
 **Android**
 - Android version 7.0 (Nougat) and above.
