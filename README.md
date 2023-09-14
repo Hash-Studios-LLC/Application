@@ -10,13 +10,13 @@
 
 # Description
 
-Explore the World of Hash Studios LLC with our mobile app, your gateway to exceptional Virtual Reality experiences, cutting-edge software solutions, and enthralling games. The app features our latest innovations, offering you access to immersive and engaging content. Stay connected with Hash Studios LLC and be part of the future of Virtual Reality.
+Introducing the Hash Studios Web App: A seamless, one-click portal designed to give you immediate access to Hash Studios' pioneering experiences and state-of-the-art software solutions, all conveniently available on your computer or mobile device.
 
 <br><img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosBlue.png" width="100%" height="5"><br><br>
 
 # How to Download
 
-Follow these steps to download and install the Hash Studios LLC mobile app:
+Follow these steps to download and install Hash Studios Web App:
 
 <br><br>
 ### Windows (EXE)
